@@ -17,7 +17,7 @@ export const Footer = () => {
               <a href="https://www.linkedin.com/in/mayconpachecooficial/" target="__blank"><i className="bi bi-linkedin"></i></a>
               <a href="https://github.com/mayconpachecooficial" target="__blank"><i className="bi bi-github"></i></a>
             </div>
-            <p>Copyright 2024. Todos os direitos reservados.</p>
+            <p>Copyright 2024. &copy; Todos os direitos reservados.</p>
           </Col>
         </Row>
       </Container>
