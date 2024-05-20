@@ -13,7 +13,7 @@ export const Footer = () => {
           </Col>
           <Col size={12} sm={6} className="text-center text-sm-end">
             <div className="social-icon">
-              <a href="https://twitter.com/mayconpachecoof/" target="__blank"><i className="bi bi-twitter"></i></a>
+              {/* <a href="https://twitter.com/mayconpachecoof/" target="__blank"><i className="bi bi-twitter"></i></a> */}
               <a href="https://www.linkedin.com/in/mayconpachecooficial/" target="__blank"><i className="bi bi-linkedin"></i></a>
               <a href="https://github.com/mayconpachecooficial" target="__blank"><i className="bi bi-github"></i></a>
             </div>
